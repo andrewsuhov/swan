@@ -1,0 +1,3 @@
+/*
+ *    BSUIR Bachelor's Diploma 2016
+ */
